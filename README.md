@@ -37,3 +37,4 @@ portfolio/
 - No build steps required – runs on vanilla HTML, CSS, JS.
 
 ## 🔗 Live Demo
+[link](https://akbaman.github.io/Portfolio/)
