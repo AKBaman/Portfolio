@@ -23,11 +23,14 @@ It showcases my skills, projects, and achievements with a clean, responsive, and
 ---
 
 ## 📂 Folder Structure
+```
 portfolio/
 │── index.html # Main HTML file
 │── style.css # Styling (CSS)
 │── script.js # JavaScript logic
 │── assets/ # Images, icons, etc.
+
+```
 
 ## 2️⃣ Open the project
 - Simply open the index.html file in your browser.
